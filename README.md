@@ -1,2 +1,2 @@
 # machine-learning
-Apriori algorithm
+K-nearest algorithm
